@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rene Steinmann"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Post-doctoral researcher at the intersection of machine learning and seismology"
+  location         : "Berlin"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=x8-5l6MAAAAJ&hl=de"
   email            : "rene-steinmann@web.de"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/ReneSteinmann"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/resteine"
   vine             :
   weibo            :
   xing             :
