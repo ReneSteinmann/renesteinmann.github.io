@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello everyone!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Rene and I am a post-doctoral researcher in machine learning based in Berlin. By training, I am a geophysicist and very recently, I obtained my PhD at the intersection of machine learning and seismology at [ISTerre](https://www.isterre.fr/) in Grenoble, France. During my PhD, I mainly worked on methods which help seismologists to explore continuous seismic time series in a data-driven fashion. Soon, I'll be a visiting researcher at GFZ in Potsdam within the Helmholtz AI program.
 
-A data-driven personal website
+My research interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am trained in geophysics and machine learning but I have the problem that I am interested by too many different subjects. Therefore, you can say that I am more on the side of a curiosity-driven researcher than a problem-solving researcher. My PhD journey made me aware on how science is impacted by the tools we have at our disposals. Like many other scientific disciplines, the field of seismology evolves continuously with some disrupting events in between, changing the way we do science and the questions we ask. Machine learning seems to offer new types of processing tools and the increasing computational power let us explore larger and larger datasets. I am interested in creating new tools which offer us new views on the data we have at our disposal, this includes in particualar how to visualize data. After all, as an observational scientists I like to look at the data.
 
 Getting started
 ======
